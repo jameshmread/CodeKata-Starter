@@ -1,0 +1,6 @@
+C:\git\CodeKata-Starter\src\bin\Debug\netstandard1.4\src.deps.json
+C:\git\CodeKata-Starter\src\bin\Debug\netstandard1.4\src.dll
+C:\git\CodeKata-Starter\src\bin\Debug\netstandard1.4\src.pdb
+C:\git\CodeKata-Starter\src\obj\Debug\netstandard1.4\src.AssemblyInfo.cs
+C:\git\CodeKata-Starter\src\obj\Debug\netstandard1.4\src.dll
+C:\git\CodeKata-Starter\src\obj\Debug\netstandard1.4\src.pdb
