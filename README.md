@@ -2,6 +2,7 @@
 C# Starter template for a dotnet core class lib and xunit framework to run a TDD dojo
 
 To Start:
+
 0) Fork the repo if you can, it will mean all users can see different dojos and learn from them
 0.1) You should create a different branch for each dojo you do
 1) Clone/ fork this repo.
