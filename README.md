@@ -2,11 +2,15 @@
 C# Starter template for a dotnet core class lib and xunit framework to run a TDD dojo
 
 To Start:
-1) Clone this repo to your local machine.
+0) Fork the repo if you can, it will mean all users can see different dojos and learn from them
+0.1) You should create a different branch for each dojo you do
+1) Clone/ fork this repo.
 2) Open in a your favourite code editor.
-3) In a terminal, navigate to the /test/ dir.
+3) In a terminal, navigate to the /test/ directory.
+4) Do a dotnet restore to restore the bin and obj directories
+5) Running a test should fail the provided sample one.
 
-To Run tests:
+To Run tests: (ensure you are in the /test directory)
 dotnet test
 
 Dojo structure
