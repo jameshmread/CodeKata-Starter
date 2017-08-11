@@ -1,4 +1,7 @@
 # CodeKata-Starter
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c415f78e05b24a869113cbcca4e5cc0e)](https://www.codacy.com/app/j.h.m.read/CodeKata-Starter?utm_source=github.com&utm_medium=referral&utm_content=jameshmread/CodeKata-Starter&utm_campaign=badger)
+
 C# Starter template for a dotnet core class lib and xunit framework to run a TDD dojo
 
 To Start:
