@@ -1,5 +1,5 @@
-# CodeKata-Starter
-C# Starter template for a dotnet core class lib and xunit framework to run a TDD dojo
+# CodeKata-Starter Typescript
+Typescript Starter template for a plain typescript class and mocha test runner to run a TDD dojo
 
 To Start:
 
@@ -7,13 +7,13 @@ To Start:
 
 0.1) You should create a different branch for each dojo you do
 1) Clone/ fork this repo.
-2) Open in a your favourite code editor.
-3) In a terminal, navigate to the /test/ directory.
-4) Do a dotnet restore to restore the bin and obj directories
-5) Running a test should fail the provided sample one.
+2) Open in a your favourite code editor (I use VsCode currently.
+3) In a terminal, run npm install
+4) Running a test should fail the provided sample one.
 
-To Run tests: (ensure you are in the /test directory)
-dotnet test
+To Run tests: npm run test
+To run testing faster: npm run test:watch (will run tests on saving)
+(Good shortcut to know is Ctrl+K, S: this saves all files at once) [VSCODE]
 
 Dojo structure
 1) Write a failing test
@@ -26,8 +26,5 @@ Dojo structure
 Troubleshooting
 
 - The test should run and fail the first time you open the project. The test should not fail due to compliation errors.
-- Make sure you have the C# extension enabled (VSCode).
-- Restore Dependencies when prompted.
-
-Adapted From:
-https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test
+- If it cannot find modules, make sure you have ran an npm install
+- There is no need to transpile to js, mocha runs typescript tests
